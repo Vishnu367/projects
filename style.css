@@ -88,7 +88,7 @@ body, html {
 
 .options input {
     margin-right: 1rem;
-    accent-color: #e66464;
+    accent-color: #e66464a9;
     transform: scale(1.5);
 } 
 
@@ -117,7 +117,7 @@ body, html {
 
 .active {
     background-color: rgb(52, 152, 219);
-    background: linear-gradient(#e66464 35%, #9198e5f8);
+    background: linear-gradient(#e66464a9 35%, #9198e5a1);
 
     color: #fff;
     cursor: default;
@@ -173,7 +173,7 @@ body, html {
     width: 50%;
     height: 100%;
     border-radius: 1rem;
-    background-color: #e66464;
+    background-color: #e66464a9;
 }
 
 .resultBlock h1 {
